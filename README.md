@@ -35,9 +35,7 @@ This solution was developed in the Linx Designer `v5.21.0.0`
 
 ---
 
-## Installation
-
-Register a new app on GitHub:
+### Register a new app on GitHub:
 
 1. Register a new 'OAuth application' on GitHub
 1. Configure the 'Authorization callback URL' to be: `http://localhost:8080/oauth/token`
@@ -45,7 +43,7 @@ Register a new app on GitHub:
 1. Generate your **client secret**.
 1. Copy the **Client ID** and **Client Secret**.
 
-Configure the Solution's $.Settings with GitHub details:
+### Configure the Solution's $.Settings with GitHub details:
 
 1. Open the solution in your Linx Designer.
 1. Edit the $.Settings values:
@@ -56,7 +54,7 @@ Configure the Solution's $.Settings with GitHub details:
 
 1. Save the Solution.
 
-Generate access tokens:
+### Generate access tokens:
 
 1. Start the debugger on the RESTHost service in the Linx Designer.
 2. Make a request in your browser to `http://localhost:8080/oauth/authorize`
