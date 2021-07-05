@@ -1,6 +1,6 @@
 # GitHub - DevOps Management
 
-## Overview
+## Description
 
 The provided sample includes:
 
@@ -21,7 +21,7 @@ The provided sample includes:
 
 ---
 
-## Dependencies
+## Installation
 
 ### Pre-requisites
 
@@ -35,7 +35,7 @@ This solution was developed in the Linx Designer `v5.21.0.0`
 
 ---
 
-## Setting up the sample
+## Installation
 
 Register a new app on GitHub:
 
@@ -76,9 +76,7 @@ Configure the Solution's $.Settings with your email details :
 - `receiver_mail`: Mail address of 'To' for notification email.
 
 ---
-
-
-## Using the sample
+## Usage
 
 ### Authentication
 
