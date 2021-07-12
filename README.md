@@ -7,7 +7,7 @@ The provided sample includes:
 - Generating GitHub API access tokens via OAuth 2.0.
 - Authenticating and connecting to the GitHub API via Linx
 - Retrieving commit activity for repositories.
-- Sending email notifications from Gmail for Gitub repository commit activity for a time period. The sample Solution sends out an HTML email containing a summary of your GitHub activity from your configured Gmail account. This email can be directed to you or any others you want to alert containing the information concerning the commits you want to pass on.
+- Sending email notifications from Gmail for Github repository commit activity for a time period. The sample Solution sends out an HTML email containing a summary of your GitHub activity from your configured Gmail account. This email can be directed to you or any others you want to alert containing the information concerning the commits you want to pass on.
 
 
 ---
