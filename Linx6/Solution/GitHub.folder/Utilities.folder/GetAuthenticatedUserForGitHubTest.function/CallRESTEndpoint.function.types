@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "0phI",
+      "Properties": [
+        {
+          "Id": "ResponseHeaders",
+          "Name": "ResponseHeaders",
+          "Type": "List:Generated:d2BL",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ResponseBody",
+          "Name": "ResponseBody",
+          "Type": "Custom:hdcq",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "StatusCode",
+          "Name": "StatusCode",
+          "Type": "Compiled:Int32",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "d2BL",
+      "Properties": [
+        {
+          "Id": "Name",
+          "Name": "Name",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Value",
+          "Name": "Value",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "Id": "qBaF",
+  "Name": "commit",
+  "Properties": [
+    {
+      "Id": "bjcS",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iZhW",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VpIY",
+      "Name": "commit",
+      "Type": "Custom:z78u"
+    },
+    {
+      "Id": "v30N",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cReL",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "auGz",
+      "Name": "comments_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5noG",
+      "Name": "author",
+      "Type": "Custom:Sb8R"
+    },
+    {
+      "Id": "jCZK",
+      "Name": "committer",
+      "Type": "Custom:Sb8R"
+    },
+    {
+      "Id": "ghqE",
+      "Name": "parents",
+      "Type": "List:Custom:IR4R"
+    }
+  ]
+}

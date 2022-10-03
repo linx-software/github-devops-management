@@ -1,0 +1,62 @@
+{
+  "Properties": [
+    {
+      "Id": "BPES",
+      "Type": "Compiled:DateTime",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.until",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:DateTime"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "dTDb",
+      "Type": "Compiled:DateTime",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.since",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:DateTime"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "JOpl",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.per_page",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:Int64"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "JOpl": "per_page",
+        "dTDb": "since",
+        "BPES": "until"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "ChCs",
+        "Name": "GitHub.Generic.GetReposAndCommits.MailCommitForRepo",
+        "Parameters": "Generated:AESa",
+        "Result": null,
+        "IsValid": true,
+        "QualifiedPath": "FL:GitHub→FL:Generic→FL:GetReposAndCommits→PC:MailCommitForRepo"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ]
+}

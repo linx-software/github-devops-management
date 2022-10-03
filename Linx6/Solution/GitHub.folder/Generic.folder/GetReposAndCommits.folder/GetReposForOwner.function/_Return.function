@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "List:Custom:BjFL",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpoint.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:BjFL"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

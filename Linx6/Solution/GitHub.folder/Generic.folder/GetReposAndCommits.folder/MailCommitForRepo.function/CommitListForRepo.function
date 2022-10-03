@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:DCxG",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "List:Custom:DCxG",
+      "ValueUsage": "RuntimeRead",
+      "Value": "[]",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "List:Custom:DCxG"
+}

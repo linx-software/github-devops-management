@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"<h4>Repo Activity <h4>\"",
+        "CompiledExpression": "=\"<h4>Repo Activity <h4>\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

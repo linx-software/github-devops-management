@@ -1,0 +1,21 @@
+{
+  "Id": "vorG",
+  "Name": "token",
+  "Properties": [
+    {
+      "Id": "EgLi",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9n9w",
+      "Name": "scope",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TBPZ",
+      "Name": "token_type",
+      "Type": "Compiled:String"
+    }
+  ]
+}

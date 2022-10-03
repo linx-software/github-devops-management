@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "sRoC",
+      "Properties": [
+        {
+          "Id": "v96L",
+          "Name": "per_page",
+          "Type": "Compiled:Int64",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "PWmE",
+          "Name": "since",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "sPRd",
+          "Name": "until",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "<img src=\"https://github.blog/wp-content/uploads/2013/04/074d0b06-a5e3-11e2-8b7f-9f09eb2ddfae.jpg?resize=1234%2C701\"  width=\"50\" height=\"25\">"
+    }
+  ],
+  "Result": "Compiled:String"
+}

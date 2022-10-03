@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Custom:hdcq",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "user",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:hdcq"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "eJf4",
+      "Properties": [
+        {
+          "Id": "ResponseHeaders",
+          "Name": "ResponseHeaders",
+          "Type": "List:Generated:x6DD",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ResponseBody",
+          "Name": "ResponseBody",
+          "Type": "Custom:vorG",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "StatusCode",
+          "Name": "StatusCode",
+          "Type": "Compiled:Int32",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "x6DD",
+      "Properties": [
+        {
+          "Id": "Name",
+          "Name": "Name",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Value",
+          "Name": "Value",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

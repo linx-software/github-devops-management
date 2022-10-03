@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "eNZ7",
+      "Properties": [
+        {
+          "Id": "9SkJ",
+          "Name": "token",
+          "Type": "Custom:vorG",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Id": "SsOU",
+  "Name": "commit_commit_Type",
+  "Properties": [
+    {
+      "Id": "vwyq",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jWOh",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EhIy",
+      "Name": "date",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

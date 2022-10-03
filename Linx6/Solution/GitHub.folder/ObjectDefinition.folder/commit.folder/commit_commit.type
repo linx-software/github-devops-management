@@ -1,0 +1,41 @@
+{
+  "Id": "z78u",
+  "Name": "commit_commit",
+  "Properties": [
+    {
+      "Id": "2Dmf",
+      "Name": "author",
+      "Type": "Custom:SsOU"
+    },
+    {
+      "Id": "F3Ws",
+      "Name": "committer",
+      "Type": "Custom:SsOU"
+    },
+    {
+      "Id": "uEDA",
+      "Name": "message",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uIjo",
+      "Name": "tree",
+      "Type": "Custom:yZKs"
+    },
+    {
+      "Id": "cyVX",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xS29",
+      "Name": "comment_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "cLXc",
+      "Name": "verification",
+      "Type": "Custom:3xvS"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "rwla",
+      "Properties": [
+        {
+          "Id": "XQnE",
+          "Name": "per_page",
+          "Type": "Compiled:Int64",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OBdD",
+          "Name": "repo",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "VRYj",
+          "Name": "since",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "DzyK",
+          "Name": "until",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

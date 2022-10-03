@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"<h3>GitHub \"+ GitHub_logoHTML+\" activity summary for period \" + $.Parameters.since +\" to \"+$.Parameters.until+\" for \"+$.Settings.owner + \"</h3>\"",
+        "CompiledExpression": "=\"<h3>GitHub \"+{3}+\" activity summary for period \"+{2}+\" to \"+{1}+\" for \"+{0}+\"</h3>\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

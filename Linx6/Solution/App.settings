@@ -1,0 +1,80 @@
+[
+  {
+    "Id": "Fk5Y",
+    "Name": "api_host",
+    "Type": "Compiled:String",
+    "Value": "https://github.com"
+  },
+  {
+    "Id": "FQE9",
+    "Name": "client_id",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "ayWu",
+    "Name": "client_secret",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "hvev",
+    "Name": "github_api_base_url",
+    "Type": "Compiled:String",
+    "Value": "https://api.github.com"
+  },
+  {
+    "Id": "uZob",
+    "Name": "localhost_uri",
+    "Type": "Compiled:String",
+    "Value": "http://localhost:8080"
+  },
+  {
+    "Id": "JaGo",
+    "Name": "mail_username",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "HkJ8",
+    "Name": "mail_userpassword",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "5279",
+    "Name": "owner",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "PmM0",
+    "Name": "receiver_mail",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "eHYC",
+    "Name": "redirect_path",
+    "Type": "Compiled:String",
+    "Value": "/oauth/token"
+  },
+  {
+    "Id": "ipaj",
+    "Name": "scope",
+    "Type": "Compiled:String",
+    "Value": "repo, user"
+  },
+  {
+    "Id": "Ferf",
+    "Name": "token_log_path",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "jmwk",
+    "Name": "sender_mail",
+    "Type": "Compiled:String",
+    "Value": null
+  }
+]

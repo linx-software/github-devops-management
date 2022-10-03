@@ -1,0 +1,31 @@
+{
+  "Id": "0ykd",
+  "Name": "repo_permissions",
+  "Properties": [
+    {
+      "Id": "zuE2",
+      "Name": "admin",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "TdMW",
+      "Name": "maintain",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ybYy",
+      "Name": "push",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2UhV",
+      "Name": "triage",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "vTWe",
+      "Name": "pull",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

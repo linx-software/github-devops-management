@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {},
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "keIG",
+        "Name": "GenericOAuth2.GetAuthenticateUserForGithHubTest",
+        "Parameters": null,
+        "Result": "Custom:hdcq",
+        "IsValid": true,
+        "QualifiedPath": "FL:GenericOAuth2→PC:GetAuthenticateUserForGithHubTest"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ],
+  "Result": "Custom:hdcq"
+}

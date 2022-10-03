@@ -1,0 +1,26 @@
+{
+  "Id": "NAhD",
+  "Name": "user_plan",
+  "Properties": [
+    {
+      "Id": "xf63",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zU8g",
+      "Name": "space",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "BWhk",
+      "Name": "collaborators",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "tfTn",
+      "Name": "private_repos",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

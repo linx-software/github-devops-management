@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:qBaF",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "List:Custom:qBaF",
+      "ValueUsage": "RuntimeRead",
+      "Value": "[]",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "List:Custom:qBaF"
+}

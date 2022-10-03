@@ -1,0 +1,28 @@
+{
+  "Properties": [
+    {
+      "Id": "Encoding",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Text.RazorTemplateTransform.Encoding, Twenty57.Linx.Plugins.Text, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "Html"
+    },
+    {
+      "Id": "Model",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachRepo.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:DCxG"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Template",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "<div><a href= @Model.repoUrl>Click here to see more </a> </div>\r\n<hr>"
+    }
+  ],
+  "Result": "Compiled:String"
+}

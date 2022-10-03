@@ -1,0 +1,16 @@
+{
+  "Id": "yZKs",
+  "Name": "commit_commit_tree",
+  "Properties": [
+    {
+      "Id": "WOhH",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x6rA",
+      "Name": "url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

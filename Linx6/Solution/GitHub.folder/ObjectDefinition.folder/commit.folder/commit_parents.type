@@ -1,0 +1,21 @@
+{
+  "Id": "IR4R",
+  "Name": "commit_parents",
+  "Properties": [
+    {
+      "Id": "f2UB",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PvhW",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j3k1",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "AESa",
+      "Properties": [
+        {
+          "Id": "JOpl",
+          "Name": "per_page",
+          "Type": "Compiled:Int64",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "dTDb",
+          "Name": "since",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "BPES",
+          "Name": "until",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

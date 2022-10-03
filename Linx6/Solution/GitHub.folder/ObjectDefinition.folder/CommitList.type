@@ -1,0 +1,26 @@
+{
+  "Id": "DCxG",
+  "Name": "CommitList",
+  "Properties": [
+    {
+      "Id": "uUUs",
+      "Name": "commitList",
+      "Type": "List:Custom:qBaF"
+    },
+    {
+      "Id": "elNv",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "NDWU",
+      "Name": "repo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fOhT",
+      "Name": "repoUrl",
+      "Type": "Compiled:String"
+    }
+  ]
+}

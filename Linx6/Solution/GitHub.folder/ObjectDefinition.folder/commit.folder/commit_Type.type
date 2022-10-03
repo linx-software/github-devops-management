@@ -1,0 +1,96 @@
+{
+  "Id": "Sb8R",
+  "Name": "commit_Type",
+  "Properties": [
+    {
+      "Id": "PHuh",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RnxX",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "SJdi",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lSnm",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3Kmz",
+      "Name": "gravatar_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m4ay",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4wvk",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nu3j",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fK1D",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jGfC",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1nqh",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9x1r",
+      "Name": "subscriptions_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EOXZ",
+      "Name": "organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FBfO",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nZAG",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YHuH",
+      "Name": "received_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s4Ud",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "t32f",
+      "Name": "site_admin",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

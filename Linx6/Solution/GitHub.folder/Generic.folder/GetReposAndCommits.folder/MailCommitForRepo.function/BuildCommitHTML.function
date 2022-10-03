@@ -1,0 +1,28 @@
+{
+  "Properties": [
+    {
+      "Id": "Encoding",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Text.RazorTemplateTransform.Encoding, Twenty57.Linx.Plugins.Text, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "Html"
+    },
+    {
+      "Id": "Model",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "commit",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:qBaF"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Template",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "<p> - @Model.commit.author.name - @Model.commit.author.date </p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    }
+  ],
+  "Result": "Compiled:String"
+}

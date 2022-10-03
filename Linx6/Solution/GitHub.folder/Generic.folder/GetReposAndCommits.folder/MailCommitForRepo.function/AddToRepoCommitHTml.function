@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "RepoCommitHtml+BuildCommitHTML",
+        "CompiledExpression": "={1}+{0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "RepoCommitHtml",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

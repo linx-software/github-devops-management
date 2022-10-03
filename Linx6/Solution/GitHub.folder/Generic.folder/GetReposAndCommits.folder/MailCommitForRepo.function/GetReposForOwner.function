@@ -1,0 +1,35 @@
+{
+  "Properties": [
+    {
+      "Id": "9SkJ",
+      "Type": "Custom:vorG",
+      "ValueUsage": "RuntimeRead",
+      "Value": null,
+      "ValueType": null
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "9SkJ": "token"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "NTj4",
+        "Name": "GitHub.Generic.GetReposAndCommits.GetReposForOwner",
+        "Parameters": "Generated:eNZ7",
+        "Result": "List:Custom:BjFL",
+        "IsValid": true,
+        "QualifiedPath": "FL:GitHub→FL:Generic→FL:GetReposAndCommits→PC:GetReposForOwner"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ],
+  "Result": "List:Custom:BjFL"
+}
