@@ -44,5 +44,6 @@
       "IterationHint": "ZeroOrOnce",
       "ConstitutesControlFlow": true
     }
-  ]
+  ],
+  "Version": "1"
 }

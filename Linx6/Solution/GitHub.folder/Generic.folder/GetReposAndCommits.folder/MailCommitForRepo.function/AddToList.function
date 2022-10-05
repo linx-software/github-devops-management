@@ -16,16 +16,16 @@
       "Type": "Custom:DCxG",
       "ValueUsage": "RuntimeRead",
       "Value": {
-        "ParsedExpression": "{\"CommitList\":{\"LinxExpression\":\"[PARSED]\"}, \"repo\":{\"LinxExpression\":\"[PARSED]\"}, \"repoUrl\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ParsedExpression": "{\"commitList\":{\"LinxExpression\":\"[PARSED]\"}, \"repo\":{\"LinxExpression\":\"[PARSED]\"}, \"repoUrl\":{\"LinxExpression\":\"[PARSED]\"}}",
         "ExpressionPlaceholders": [
           {
             "typePath": [
-              "CommitList"
+              "commitList"
             ],
             "expression": {
-              "Expression": "tempCommitList",
+              "Expression": "CommitListForRepo",
               "CompiledExpression": "={0}",
-              "Type": "List:Custom:qBaF"
+              "Type": "List:Custom:DCxG"
             }
           },
           {
