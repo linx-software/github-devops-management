@@ -1,12 +1,12 @@
 {
-  "ApplicationVersion": "6.4.1",
+  "ApplicationVersion": "6.4.3",
   "SolutionVersion": 4,
   "Plugins": [
-    "twenty57.linx.plugins.file, 1.1.0",
-    "twenty57.linx.plugins.rest, 1.1.0",
+    "twenty57.linx.plugins.file, 1.1.1",
+    "twenty57.linx.plugins.rest, 1.1.1",
     "twenty57.linx.plugins.standard, 1.1.0",
     "twenty57.linx.plugins.text, 1.0.2",
-    "twenty57.linx.plugins.utilities, 1.0.2"
+    "twenty57.linx.plugins.utilities, 1.1.0"
   ],
   "Dependencies": [
     "twenty57.linx.solutiondependencies.compilation, 2.0.0",

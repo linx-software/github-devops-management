@@ -12,7 +12,7 @@
               "ResponseXXX"
             ],
             "expression": {
-              "Expression": "\"GitHub User '\" + GetAuthenticateUserForGitHubTest.name + \"' successfully authenticated\"",
+              "Expression": "\"GitHub User '\" + GetAuthenticateUserForGitHubTest.login + \"' successfully authenticated\"",
               "CompiledExpression": "=\"GitHub User '\"+{0}+\"' successfully authenticated\"",
               "Type": "Compiled:String"
             }

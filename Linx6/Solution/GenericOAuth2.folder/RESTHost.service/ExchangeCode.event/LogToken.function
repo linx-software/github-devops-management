@@ -4,8 +4,42 @@
       "Id": "KjdH",
       "Type": "Custom:vorG",
       "ValueUsage": "RuntimeRead",
-      "Value": null,
-      "ValueType": null
+      "Value": {
+        "ParsedExpression": "{\"access_token\":{\"LinxExpression\":\"[PARSED]\"}, \"scope\":{\"LinxExpression\":\"[PARSED]\"}, \"token_type\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "access_token"
+            ],
+            "expression": {
+              "Expression": "ExchangeCodeForToken.access_token",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "scope"
+            ],
+            "expression": {
+              "Expression": "ExchangeCodeForToken.scope",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "token_type"
+            ],
+            "expression": {
+              "Expression": "ExchangeCodeForToken.token_type",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
     },
     {
       "Id": "ParameterNameMapping",
