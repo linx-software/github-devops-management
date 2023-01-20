@@ -44,7 +44,7 @@
               "Value"
             ],
             "expression": {
-              "Expression": "$.Parameters.token.access_token",
+              "Expression": "RetrieveToken.access_token",
               "CompiledExpression": "={0}",
               "Type": "Compiled:String"
             }
